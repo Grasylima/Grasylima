@@ -5,7 +5,7 @@ Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiê
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/grasiellelima_ti])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/grasielle-lima-de-oliveira-24b7b339/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/grasielleoliveira/)
 
 ### GitHub Stats
 
