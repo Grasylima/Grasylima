@@ -1,6 +1,6 @@
 # Sou a Grasielle
 
-Carreira desenvolvida na área de Tecnologia da Informação, 11 anos de experiência, possuo um profundo conhecimento e expertise nesse campo. Durante minha carreira, tive a oportunidade de desenvolver e implementar soluções tecnológicas inovadoras, contribuindo para otimizar processos.
+Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiência em qualidade de software e testes. Atuando de forma estratégica na implementação de melhorias contínuas, elaboração de documentação técnica e na execução de testes de software para garantir a entrega de soluções de alta qualidade. 
 
 ### Conecte-se comigo
 
